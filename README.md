@@ -1,2 +1,3 @@
-# database
-csv database of public repositories
+# C++ Archive Network: CSV Database
+
+CSV database of public repositories.
