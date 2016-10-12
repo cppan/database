@@ -473,3 +473,5 @@
 594;pvt.cppan.demo.qicosmos.rest_rpc;1;0
 596;pvt.cppan.demo.inkooboo.thread_pool_cpp;1;0
 597;pvt.cppan.demo.msgpack;1;0
+598;pvt.cppan.demo.foonathan.type_safe;1;0
+600;pvt.cppan.demo.pferdinand.pqmxx;1;0
