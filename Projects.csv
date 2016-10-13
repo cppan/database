@@ -138,7 +138,6 @@
 147;pvt.cppan.demo.magic_get;1;0
 148;pvt.cppan.demo.catch;1;0
 149;pvt.cppan.demo.boost_experimental.process;1;0
-150;pvt.cppan.demo.callable_traits;1;0
 151;pvt.cppan.demo.tick;1;0
 152;pvt.cppan.demo.fmt;1;0
 153;pvt.cppan.demo.boost_experimental.msm_lite;1;0
@@ -475,3 +474,5 @@
 597;pvt.cppan.demo.msgpack;1;0
 598;pvt.cppan.demo.foonathan.type_safe;1;0
 600;pvt.cppan.demo.pferdinand.pqmxx;1;0
+603;pvt.cppan.demo.badair.yarma;1;0
+604;pvt.cppan.demo.badair.callable_traits;1;0
