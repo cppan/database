@@ -182,7 +182,6 @@
 211;pvt.cppan.demo.kjellkod.g3log;1;0
 213;pvt.cppan.demo.mattiasflodin.reckless;1;0
 215;pvt.cppan.demo.claasbontus.bitset2;1;0
-216;pvt.cppan.demo.harfbuzz;1;0
 218;pvt.cppan.demo.vinniefalco.beast;1;0
 219;pvt.cppan.demo.kfr;1;0
 220;pvt.cppan.demo.cereal;1;0
@@ -301,7 +300,6 @@
 378;pvt.cppan.demo.libtom.libtommath;1;0
 380;pvt.cppan.demo.ace;3;0
 381;pvt.cppan.demo.ace.wrappers;1;0
-382;pvt.loredan.validation;2;64
 383;pvt.cppan.demo.eigen;1;0
 385;pvt.cppan.demo.ninetainedo.sery;1;0
 387;pvt.cppan.demo.reactive_extensions.rxcpp;1;0
@@ -326,7 +324,6 @@
 411;pvt.onqtam.doctest;1;0
 412;pvt.cppan.demo.openexr.b44explogtable;2;64
 413;pvt.cppan.demo.openexr.dwalookups;2;64
-414;pvt.cppan.demo.jpeg_turbo;1;0
 416;pvt.cppan.demo.freeimage;3;0
 417;pvt.cppan.demo.freeimage.freeimage;1;0
 418;pvt.cppan.demo.freeimage.freeimageplus;1;0
