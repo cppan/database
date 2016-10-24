@@ -85,7 +85,6 @@
 87;pvt.cppan.demo.zlib;1;0
 88;pvt.cppan.demo.bzip2;1;0
 89;pvt.cppan.demo.sqlite3;1;0
-90;pvt.cppan.demo.range_v3;1;0
 91;pvt.cppan.demo.mstch;1;0
 92;pvt.cppan.demo.mach7;1;0
 93;pvt.cppan.demo.pqxx;1;0
@@ -490,3 +489,4 @@
 635;pvt.cppan.demo.jpeg_turbo;3;0
 638;pvt.gracicot.kangaru;1;0
 639;pvt.cppan.demo.boost_experimental.sml;1;0
+640;pvt.cppan.demo.ericniebler.range_v3;1;0
