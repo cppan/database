@@ -220,7 +220,6 @@
 259;pvt.cppan.demo.boost.tr1;1;0
 260;pvt.cppan.demo.boost.units;1;0
 261;pvt.cppan.demo.boost.msm;1;0
-262;pvt.cppan.demo.range_v3_vs2015;1;0
 263;pvt.cppan.demo.re2c;3;0
 264;pvt.cppan.demo.re2c.libre2c;1;0
 265;pvt.cppan.demo.re2c.re2c;2;64
@@ -490,3 +489,4 @@
 638;pvt.gracicot.kangaru;1;0
 639;pvt.cppan.demo.boost_experimental.sml;1;0
 640;pvt.cppan.demo.ericniebler.range_v3;1;0
+641;pvt.cppan.demo.microsoft.range_v3_vs2015;1;0
