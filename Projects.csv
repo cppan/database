@@ -80,7 +80,6 @@
 82;pvt.cppan.demo.boost.hana;1;0
 83;pvt.cppan.demo.boost.dll;1;0
 84;pvt.cppan.demo.boost.coroutine2;1;0
-85;pvt.cppan.demo.gsl;1;0
 86;pvt.cppan.demo.yaml_cpp;1;0
 87;pvt.cppan.demo.zlib;1;0
 88;pvt.cppan.demo.bzip2;1;0
@@ -491,3 +490,5 @@
 640;pvt.cppan.demo.ericniebler.range_v3;1;0
 641;pvt.cppan.demo.microsoft.range_v3_vs2015;1;0
 643;pvt.cppan.demo.nholthaus.units;1;0
+644;pvt.cppan.demo.microsoft.gsl;1;0
+646;pvt.cppan.demo.fisherro.streams;1;0
