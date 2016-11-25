@@ -521,3 +521,5 @@
 692;pvt.cppan.demo.c_ares;1;0
 693;pvt.cppan.demo.nghttp2;1;0
 694;pvt.cppan.demo.libssh2;1;0
+696;pvt.cppan.demo.badger.curl;3;0
+697;pvt.cppan.demo.badger.curl.libcurl;1;0
