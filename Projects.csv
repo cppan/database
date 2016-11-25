@@ -525,3 +525,6 @@
 698;pvt.cppan.demo.pcre.pcre;1;0
 699;pvt.cppan.demo.pcre.pcreposix;1;0
 701;pvt.cppan.demo.oberhumer.lzo;1;0
+702;pvt.cppan.demo.gnu.nettle;3;0
+703;pvt.cppan.demo.gnu.nettle.nettle;1;0
+704;pvt.cppan.demo.gnu.nettle.eccdata;2;64
