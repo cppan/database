@@ -326,7 +326,6 @@
 419;pvt.cppan.demo.poco;3;0
 420;pvt.cppan.demo.poco.foundation;1;0
 422;pvt.cppan.demo.pcre;3;0
-423;pvt.cppan.demo.pcre.pcre8;1;0
 424;pvt.cppan.demo.pcre.pcre16;1;0
 425;pvt.cppan.demo.pcre.pcre32;1;0
 426;pvt.cppan.demo.poco.zip;1;0
@@ -523,3 +522,5 @@
 694;pvt.cppan.demo.libssh2;1;0
 696;pvt.cppan.demo.badger.curl;3;0
 697;pvt.cppan.demo.badger.curl.libcurl;1;0
+698;pvt.cppan.demo.pcre.pcre;1;0
+699;pvt.cppan.demo.pcre.pcreposix;1;0
