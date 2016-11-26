@@ -524,7 +524,6 @@
 697;pvt.cppan.demo.badger.curl.libcurl;1;0
 698;pvt.cppan.demo.pcre.pcre;1;0
 699;pvt.cppan.demo.pcre.pcreposix;1;0
-701;pvt.cppan.demo.oberhumer.lzo;1;0
 702;pvt.cppan.demo.gnu.nettle;3;0
 703;pvt.cppan.demo.gnu.nettle.nettle;1;0
 704;pvt.cppan.demo.gnu.nettle.eccdata;2;64
@@ -533,3 +532,5 @@
 710;pvt.cppan.demo._7zip.lzma_sdk;1;0
 711;pvt.cppan.demo.xz_utils;3;0
 712;pvt.cppan.demo.xz_utils.lzma;1;0
+713;pvt.cppan.demo.oberhumer.lzo;3;0
+715;pvt.cppan.demo.oberhumer.lzo.minilzo;1;0
