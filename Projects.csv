@@ -533,3 +533,5 @@
 711;pvt.cppan.demo.xz_utils;3;0
 712;pvt.cppan.demo.xz_utils.lzma;1;0
 713;pvt.cppan.demo.oberhumer.lzo;3;0
+714;pvt.cppan.demo.oberhumer.lzo.lzo;1;0
+715;pvt.cppan.demo.oberhumer.lzo.minilzo;1;0
