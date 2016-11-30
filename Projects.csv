@@ -181,7 +181,6 @@
 215;pvt.cppan.demo.claasbontus.bitset2;1;0
 218;pvt.cppan.demo.vinniefalco.beast;1;0
 219;pvt.cppan.demo.kfr;1;0
-220;pvt.cppan.demo.cereal;1;0
 221;pvt.cppan.demo.boost.accumulators;1;0
 222;pvt.cppan.demo.boost.concept_check;1;0
 223;pvt.cppan.demo.boost.circular_buffer;1;0
@@ -538,3 +537,4 @@
 716;pvt.cppan.demo.libarchive;3;0
 717;pvt.cppan.demo.libarchive.libarchive;1;0
 720;pvt.cppan.demo.arximboldi.immer;1;0
+722;pvt.cppan.demo.uscilab.cereal;1;0
