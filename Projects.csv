@@ -579,3 +579,5 @@
 795;pvt.cppan.demo.khronos.vulkan;1;0
 796;pvt.cppan.demo.glfw;1;0
 798;pvt.cppan.demo.kimgr.getopt_port;1;0
+799;pvt.cppan.demo.tinycthread;1;0
+801;pvt.cppan.demo.datenwolf.linmath;1;0
