@@ -590,4 +590,13 @@
 816;pvt.cppan.demo.nodejs.http_parser;1;0
 818;pvt.cppan.demo.cbeck88.visit_struct;1;0
 820;pvt.cppan.demo.agauniyal.rang;1;0
+822;pvt.cppan.demo.unicode.icu.common;1;0
+823;pvt.cppan.demo.unicode.icu.i18n;1;0
+824;pvt.cppan.demo.unicode.icu.io;1;0
+826;pvt.cppan.demo.unicode.icu.stub.data;1;0
+827;pvt.cppan.demo.unicode.icu.stub.common;1;0
+828;pvt.cppan.demo.unicode.icu.stub.i18n;1;0
+829;pvt.cppan.demo.unicode.icu.stub.toolutil;1;0
+830;pvt.cppan.demo.unicode.icu.stub.icupkg;1;0
+831;pvt.cppan.demo.unicode.icu.stub.pkgdata;1;0
 833;pvt.cppan.demo.tobspr.fastdynamiccast;1;0
