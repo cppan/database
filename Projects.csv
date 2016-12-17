@@ -134,7 +134,6 @@
 145;pvt.cppan.demo.uwebsockets;1;0
 146;pvt.cppan.demo.mongoose;1;0
 147;pvt.cppan.demo.magic_get;1;0
-148;pvt.cppan.demo.catch;1;0
 149;pvt.cppan.demo.boost_experimental.process;1;0
 151;pvt.cppan.demo.tick;1;0
 152;pvt.cppan.demo.fmt;1;0
@@ -601,3 +600,4 @@
 837;pvt.cppan.demo.unicode.icu.data;1;0
 838;pvt.cppan.demo.unicode.icu.i18n;1;0
 839;pvt.cppan.demo.unicode.icu.io;1;0
+841;pvt.cppan.demo.philsquared.catch;1;0
