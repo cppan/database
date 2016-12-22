@@ -92,7 +92,6 @@
 96;pvt.cppan.demo.jpeg;1;0
 97;pvt.cppan.demo.tiff;1;0
 98;pvt.cppan.demo.webp;1;0
-99;pvt.cppan.demo.leptonica;1;0
 101;pvt.cppan.demo.concepts.cmcstl2;1;0
 102;pvt.cppan.demo.concepts.text_view;1;0
 104;pvt.cppan.demo.google.googletest;3;0
@@ -138,7 +137,6 @@
 151;pvt.cppan.demo.tick;1;0
 152;pvt.cppan.demo.fmt;1;0
 155;pvt.cppan.demo.functionalplus;1;0
-157;pvt.cppan.demo.tesseract;1;0
 158;pvt.cppan.demo.tinyxml2;1;0
 160;pvt.cppan.demo.lz4;1;0
 162;pvt.cppan.demo.google.re2;1;0
