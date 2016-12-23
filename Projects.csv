@@ -80,7 +80,6 @@
 82;pvt.cppan.demo.boost.hana;1;0
 83;pvt.cppan.demo.boost.dll;1;0
 84;pvt.cppan.demo.boost.coroutine2;1;0
-86;pvt.cppan.demo.yaml_cpp;1;0
 87;pvt.cppan.demo.zlib;1;0
 88;pvt.cppan.demo.bzip2;1;0
 89;pvt.cppan.demo.sqlite3;1;0
@@ -612,3 +611,4 @@
 860;pvt.cppan.demo.fosterbrereton.spin_adaptor;1;0
 862;pvt.cppan.demo.jamboree.co2;1;0
 864;pvt.cppan.demo.zserge.pt;1;0
+866;pvt.cppan.demo.jbeder.yaml_cpp;1;0
