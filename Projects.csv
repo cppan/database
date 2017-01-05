@@ -638,5 +638,15 @@
 912;pvt.cppan.demo.jpakkane.jpack.junpack;2;64
 915;pvt.izaron.ffmpeg;1;0
 916;pvt.cppan.demo.ffmpeg;3;0
+917;pvt.cppan.demo.ffmpeg.avutil;1;0
+918;pvt.cppan.demo.ffmpeg.postproc;1;0
+919;pvt.cppan.demo.ffmpeg.swresample;1;0
+920;pvt.cppan.demo.ffmpeg.swscale;1;0
+921;pvt.cppan.demo.ffmpeg.avresample;1;0
+922;pvt.cppan.demo.ffmpeg.avformat;1;0
+923;pvt.cppan.demo.ffmpeg.avcodec;1;0
+924;pvt.cppan.demo.ffmpeg.avdevice;1;0
+925;pvt.cppan.demo.ffmpeg.avfilter;1;0
 927;pvt.cppan.demo.goldsborough.lru_cache;1;0
 929;pvt.cppan.demo.fosterbrereton.mutexpp;1;0
+930;pvt.cppan.demo.ffmpeg.ffmpeg;2;64
