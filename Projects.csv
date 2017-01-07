@@ -654,3 +654,9 @@
 934;pvt.cppan.demo.mdadams.jasper;1;0
 936;pvt.cppan.demo.vbaderks.charls;1;0
 938;pvt.cppan.demo.malaterre.gdcm;3;0
+939;pvt.cppan.demo.malaterre.gdcm.gdcm;1;0
+940;pvt.cppan.demo.malaterre.gdcm.rle;1;0
+941;pvt.cppan.demo.malaterre.gdcm.socketxx;1;0
+942;pvt.cppan.demo.malaterre.gdcm.jpeg8;1;0
+943;pvt.cppan.demo.malaterre.gdcm.jpeg12;1;0
+944;pvt.cppan.demo.malaterre.gdcm.jpeg16;1;0
