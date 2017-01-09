@@ -667,3 +667,16 @@
 953;pvt.cppan.demo.cacay.memorypool.cpp11;1;0
 954;pvt.cppan.demo.cmake.opengl_ext;1;0
 956;pvt.cppan.demo.intel.opencv.calib3d;1;0
+957;pvt.cppan.demo.intel.opencv.features2d;1;0
+958;pvt.cppan.demo.intel.opencv.flann;1;0
+959;pvt.cppan.demo.intel.opencv.highgui;1;0
+960;pvt.cppan.demo.intel.opencv.imgcodecs;1;0
+961;pvt.cppan.demo.intel.opencv.imgproc;1;0
+962;pvt.cppan.demo.intel.opencv.ml;1;0
+963;pvt.cppan.demo.intel.opencv.objdetect;1;0
+964;pvt.cppan.demo.intel.opencv.photo;1;0
+965;pvt.cppan.demo.intel.opencv.shape;1;0
+966;pvt.cppan.demo.intel.opencv.superres;1;0
+967;pvt.cppan.demo.intel.opencv.video;1;0
+968;pvt.cppan.demo.intel.opencv.videoio;1;0
+969;pvt.cppan.demo.intel.opencv.videostab;1;0
