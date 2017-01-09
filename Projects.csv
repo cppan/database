@@ -682,3 +682,6 @@
 969;pvt.cppan.demo.intel.opencv.videostab;1;0
 976;pvt.cppan.demo.hdfgroup.hdf5;3;0
 977;pvt.cppan.demo.hdfgroup.hdf5.hdf5;1;0
+978;pvt.cppan.demo.hdfgroup.hdf5.hdf5cpp;1;0
+979;pvt.cppan.demo.hdfgroup.hdf5.hdf5hl;1;0
+980;pvt.cppan.demo.hdfgroup.hdf5.hdf5hlcpp;1;0
