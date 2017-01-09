@@ -106,6 +106,10 @@
 114;pvt.cppan.demo.google.highwayhash.highway_tree_hash;1;0
 115;pvt.cppan.demo.google.highwayhash.scalar_highway_tree_hash;1;0
 116;pvt.cppan.demo.google.protobuf;3;0
+117;pvt.cppan.demo.google.protobuf.protobuf_lite;1;0
+118;pvt.cppan.demo.google.protobuf.protobuf;1;0
+119;pvt.cppan.demo.google.protobuf.protoc_lib;1;0
+120;pvt.cppan.demo.google.protobuf.protoc;2;64
 124;pvt.cppan.demo.rbock.sqlpp11;1;0
 125;pvt.cppan.demo.rbock.sqlpp11_connector_sqlite3;1;0
 126;pvt.cppan.demo.rbock.sqlpp11_connector_mysql;1;0
