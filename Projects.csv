@@ -717,3 +717,7 @@
 1014;pvt.cppan.demo.tzlaine.yap;1;0
 1015;pvt.cppan.demo.freedesktop.fontconfig;3;0
 1016;pvt.cppan.demo.freedesktop.fontconfig.fontconfig;1;0
+1017;pvt.cppan.demo.gnome.pango;3;0
+1018;pvt.cppan.demo.gnome.pango.pango;1;0
+1019;pvt.cppan.demo.gnome.pango.pangoft2;1;0
+1020;pvt.cppan.demo.gnome.pango.pangocairo;1;0
