@@ -742,3 +742,7 @@
 1055;pvt.cppan.demo.robertramey.safe_numerics;1;0
 1057;pvt.cppan.demo.vtnerd.snl;1;0
 1060;pvt.cppan.demo.spadix.zbar;1;0
+1062;pvt.cppan.demo.lexxmark.winflexbison;3;0
+1063;pvt.cppan.demo.lexxmark.winflexbison.common;1;0
+1064;pvt.cppan.demo.lexxmark.winflexbison.flex;1;0
+1065;pvt.cppan.demo.lexxmark.winflexbison.bison;1;0
