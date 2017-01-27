@@ -744,5 +744,5 @@
 1060;pvt.cppan.demo.spadix.zbar;1;0
 1062;pvt.cppan.demo.lexxmark.winflexbison;3;0
 1063;pvt.cppan.demo.lexxmark.winflexbison.common;1;0
-1064;pvt.cppan.demo.lexxmark.winflexbison.flex;1;0
-1065;pvt.cppan.demo.lexxmark.winflexbison.bison;1;0
+1066;pvt.cppan.demo.lexxmark.winflexbison.bison;2;64
+1067;pvt.cppan.demo.lexxmark.winflexbison.flex;2;64
