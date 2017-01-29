@@ -91,8 +91,6 @@
 96;pvt.cppan.demo.jpeg;1;0
 97;pvt.cppan.demo.tiff;1;0
 98;pvt.cppan.demo.webp;1;0
-101;pvt.cppan.demo.concepts.cmcstl2;1;0
-102;pvt.cppan.demo.concepts.text_view;1;0
 104;pvt.cppan.demo.google.googletest;3;0
 105;pvt.cppan.demo.google.googletest.gtest;1;0
 106;pvt.cppan.demo.google.googletest.gtest_main;1;0
@@ -746,3 +744,6 @@
 1063;pvt.cppan.demo.lexxmark.winflexbison.common;1;0
 1066;pvt.cppan.demo.lexxmark.winflexbison.bison;2;64
 1067;pvt.cppan.demo.lexxmark.winflexbison.flex;2;64
+1069;pvt.cppan.demo.tahonermann.text_view_range_v3;1;0
+1070;pvt.cppan.demo.tahonermann.text_view;1;0
+1072;pvt.cppan.demo.caseycarter.cmcstl2;1;0
