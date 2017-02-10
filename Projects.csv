@@ -118,7 +118,6 @@
 133;pvt.cppan.demo.libressl.ssl;1;0
 134;pvt.cppan.demo.libressl.tls;1;0
 135;pvt.cppan.demo.boost_experimental;3;0
-136;pvt.cppan.demo.boost_experimental.fit;1;0
 137;pvt.cppan.demo.boost_experimental.di;1;0
 138;pvt.cppan.demo.rapidjson;1;0
 139;pvt.cppan.demo.boost_experimental.root_ptr;1;0
@@ -758,3 +757,4 @@
 1088;pvt.cppan.demo.banditcpp.bandit;1;0
 1090;pvt.cppan.demo.coruus.keccak_tiny_unrolled;1;0
 1092;pvt.cppan.demo.apryor6.splinterp;1;0
+1094;pvt.cppan.demo.numscale.boost_simd;1;0
