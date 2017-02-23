@@ -602,7 +602,6 @@
 853;pvt.cppan.demo.google.tesseract;3;0
 856;pvt.cppan.demo.wilx.log4cplus;1;0
 857;pvt.cppan.demo.wilx.threadpool;1;0
-858;pvt.cppan.demo.google.tesseract.tesseract;1;0
 860;pvt.cppan.demo.fosterbrereton.spin_adaptor;1;0
 862;pvt.cppan.demo.jamboree.co2;1;0
 864;pvt.cppan.demo.zserge.pt;1;0
@@ -613,7 +612,6 @@
 889;pvt.cppan.demo.google.tesseract.tessopt;1;0
 890;pvt.cppan.demo.google.tesseract.common_training;1;0
 891;pvt.cppan.demo.google.tesseract.unicharset_training;1;0
-892;pvt.cppan.demo.google.tesseract.tesseractmain;2;64
 893;pvt.cppan.demo.google.tesseract.ambiguous_words;2;64
 894;pvt.cppan.demo.google.tesseract.classifier_tester;2;64
 895;pvt.cppan.demo.google.tesseract.combine_tessdata;2;64
@@ -772,3 +770,4 @@
 1116;pvt.cppan.demo.brunocodutra.metal;1;0
 1117;pvt.cppan.demo.amazon.aws.sdk.polly;1;0
 1118;pvt.cppan.demo.amazon.aws.sdk.text_to_speech;1;0
+1119;pvt.cppan.demo.google.tesseract.libtesseract;1;0
