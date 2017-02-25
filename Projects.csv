@@ -772,3 +772,4 @@
 1118;pvt.cppan.demo.amazon.aws.sdk.text_to_speech;1;0
 1119;pvt.cppan.demo.google.tesseract.libtesseract;1;0
 1120;pvt.cppan.demo.google.tesseract.tesseract;2;64
+1122;pvt.cppan.demo.gnu.termutils.termcap;1;0
