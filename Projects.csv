@@ -776,3 +776,7 @@
 1124;pvt.cppan.demo.antirez.linenoise;1;0
 1126;pvt.cppan.demo.arangodb.linenoise_ng;1;0
 1128;pvt.cppan.demo.yhirose.cpp_linenoise;1;0
+1130;pvt.cppan.demo.taocpp.json;1;0
+1131;pvt.cppan.demo.taocpp.operators;1;0
+1132;pvt.cppan.demo.taocpp.sequences;1;0
+1133;pvt.cppan.demo.taocpp.tuple;1;0
