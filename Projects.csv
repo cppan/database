@@ -773,3 +773,6 @@
 1119;pvt.cppan.demo.google.tesseract.libtesseract;1;0
 1120;pvt.cppan.demo.google.tesseract.tesseract;2;64
 1122;pvt.cppan.demo.gnu.termutils.termcap;1;0
+1124;pvt.cppan.demo.antirez.linenoise;1;0
+1126;pvt.cppan.demo.arangodb.linenoise_ng;1;0
+1128;pvt.cppan.demo.yhirose.cpp_linenoise;1;0
