@@ -780,3 +780,6 @@
 1131;pvt.cppan.demo.taocpp.operators;1;0
 1132;pvt.cppan.demo.taocpp.sequences;1;0
 1133;pvt.cppan.demo.taocpp.tuple;1;0
+1135;pvt.cppan.demo.stevenborisko.biginteger;1;0
+1136;pvt.cppan.demo.tessil.ordered_map;1;0
+1138;pvt.cppan.demo.skarupke.flat_hash_map;1;0
