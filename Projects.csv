@@ -787,3 +787,7 @@
 1145;pvt.cppan.demo.jtv.pqxx;1;0
 1147;pvt.cppan.demo.no1msd.mstch;1;0
 1148;pvt.cppan.client;3;0
+1149;pvt.cppan.client.common;1;0
+1150;pvt.cppan.client.cppan;2;64
+1151;pvt.cppan.client.stamp_generator;2;64
+1152;pvt.cppan.client.inserts_generator;2;64
