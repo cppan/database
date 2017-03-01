@@ -83,7 +83,6 @@
 87;pvt.cppan.demo.zlib;1;0
 88;pvt.cppan.demo.bzip2;1;0
 89;pvt.cppan.demo.sqlite3;1;0
-91;pvt.cppan.demo.mstch;1;0
 92;pvt.cppan.demo.mach7;1;0
 94;pvt.cppan.demo.png;1;0
 95;pvt.cppan.demo.gif;1;0
@@ -786,3 +785,5 @@
 1142;pvt.cppan.demo.preshing.turf;1;0
 1143;pvt.cppan.demo.preshing.mintomic;1;0
 1145;pvt.cppan.demo.jtv.pqxx;1;0
+1147;pvt.cppan.demo.no1msd.mstch;1;0
+1148;pvt.cppan.client;3;0
