@@ -784,3 +784,5 @@
 1136;pvt.cppan.demo.tessil.ordered_map;1;0
 1138;pvt.cppan.demo.skarupke.flat_hash_map;1;0
 1140;pvt.cppan.demo.iodcpp.metamap;1;0
+1142;pvt.cppan.demo.preshing.turf;1;0
+1143;pvt.cppan.demo.preshing.mintomic;1;0
