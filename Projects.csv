@@ -798,3 +798,15 @@
 1164;pvt.cppan.demo.aminroosta.sqlite_modern_cpp;1;0
 1166;pvt.cppan.demo.iwongu.sqlite3pp;1;0
 1168;pvt.egorpugin.primitives;3;0
+1169;pvt.egorpugin.primitives.context;1;0
+1170;pvt.egorpugin.primitives.date_time;1;0
+1171;pvt.egorpugin.primitives.filesystem;1;0
+1172;pvt.egorpugin.primitives.http;1;0
+1173;pvt.egorpugin.primitives.lock;1;0
+1174;pvt.egorpugin.primitives.sqlite_db;1;0
+1175;pvt.egorpugin.primitives.command;1;0
+1176;pvt.egorpugin.primitives.executor;1;0
+1177;pvt.egorpugin.primitives.hash;1;0
+1178;pvt.egorpugin.primitives.log;1;0
+1179;pvt.egorpugin.primitives.pack;1;0
+1180;pvt.egorpugin.primitives.string;1;0
