@@ -821,6 +821,7 @@
 1195;pvt.cppan.demo.google.angle.egl;1;0
 1196;pvt.cppan.demo.google.angle.gles_v2;1;0
 1197;pvt.cppan.demo.google.angle.angle;1;0
+1198;pvt.cppan.demo.google.angle.common;1;0
 1200;pvt.cppan.demo.google.angle.third_party.numerics;1;0
 1201;pvt.cppan.demo.google.angle.third_party.compiler;1;0
 1202;pvt.cppan.demo.google.angle.third_party.systeminfo;1;0
