@@ -817,3 +817,15 @@
 1190;pvt.cppan.demo.pybind.pybind11;1;0
 1192;pvt.cppan.demo.aappleby.smhasher;3;0
 1193;pvt.cppan.demo.aappleby.smhasher.murmurhash3;1;0
+1194;pvt.cppan.demo.google.angle;3;0
+1195;pvt.cppan.demo.google.angle.egl;1;0
+1196;pvt.cppan.demo.google.angle.gles_v2;1;0
+1197;pvt.cppan.demo.google.angle.angle;1;0
+1198;pvt.cppan.demo.google.angle.common;1;0
+1200;pvt.cppan.demo.google.angle.third_party.numerics;1;0
+1201;pvt.cppan.demo.google.angle.third_party.compiler;1;0
+1202;pvt.cppan.demo.google.angle.third_party.systeminfo;1;0
+1203;pvt.cppan.demo.google.angle.third_party.khronos;1;0
+1205;pvt.cppan.demo.google.angle.util.image;1;0
+1207;pvt.cppan.demo.google.angle.compiler.translator;1;0
+1208;pvt.cppan.demo.google.angle.compiler.preprocessor;1;0
