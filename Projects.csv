@@ -829,3 +829,11 @@
 1205;pvt.cppan.demo.google.angle.util.image;1;0
 1207;pvt.cppan.demo.google.angle.compiler.translator;1;0
 1208;pvt.cppan.demo.google.angle.compiler.preprocessor;1;0
+1210;pvt.cppan.demo.qtproject.qt;3;0
+1212;pvt.cppan.demo.qtproject.qt.third_party.harfbuzz;1;0
+1213;pvt.cppan.demo.qtproject.qt.third_party.iaccessible2;1;0
+1215;pvt.cppan.demo.qtproject.qt.tools.bootstrap;1;0
+1216;pvt.cppan.demo.qtproject.qt.tools.moc;2;64
+1217;pvt.cppan.demo.qtproject.qt.tools.rcc;2;64
+1218;pvt.cppan.demo.qtproject.qt.tools.uic;2;64
+1220;pvt.cppan.demo.qtproject.qt.headers.core;1;0
