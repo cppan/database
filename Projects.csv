@@ -838,3 +838,9 @@
 1218;pvt.cppan.demo.qtproject.qt.tools.uic;2;64
 1220;pvt.cppan.demo.qtproject.qt.headers.core;1;0
 1221;pvt.cppan.demo.qtproject.qt.core;1;0
+1222;pvt.cppan.demo.qtproject.qt.gui;1;0
+1227;pvt.cppan.demo.qtproject.qt.platformsupport.fontdatabases.basic;1;0
+1228;pvt.cppan.demo.qtproject.qt.platformsupport.fontdatabases.windows;1;0
+1229;pvt.cppan.demo.qtproject.qt.platformsupport.eventdispatchers;1;0
+1230;pvt.cppan.demo.qtproject.qt.platformsupport.themes;1;0
+1231;pvt.cppan.demo.qtproject.qt.platformsupport.accessibility;1;0
