@@ -832,3 +832,9 @@
 1210;pvt.cppan.demo.qtproject.qt;3;0
 1236;pvt.cppan.demo.naios.continuable;1;0
 1237;pvt.egorpugin.syncqt;2;64
+1240;pvt.cppan.demo.qtproject.qt.base.third_party.harfbuzz;1;0
+1241;pvt.cppan.demo.qtproject.qt.base.third_party.iaccessible2;1;0
+1243;pvt.cppan.demo.qtproject.qt.base.tools.bootstrap;1;0
+1244;pvt.cppan.demo.qtproject.qt.base.tools.moc;2;64
+1245;pvt.cppan.demo.qtproject.qt.base.tools.rcc;2;64
+1246;pvt.cppan.demo.qtproject.qt.base.tools.uic;2;64
