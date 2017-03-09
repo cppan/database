@@ -842,3 +842,6 @@
 1250;pvt.cppan.demo.qtproject.qt.base.gui;1;0
 1251;pvt.cppan.demo.qtproject.qt.base.widgets;1;0
 1252;pvt.cppan.demo.qtproject.qt.base.winmain;1;0
+1255;pvt.cppan.demo.qtproject.qt.base.platformsupport.fontdatabases.basic;1;0
+1256;pvt.cppan.demo.qtproject.qt.base.platformsupport.fontdatabases.windows;1;0
+1257;pvt.cppan.demo.qtproject.qt.base.platformsupport.eventdispatchers;1;0
