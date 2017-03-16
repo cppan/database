@@ -862,3 +862,7 @@
 1282;pvt.cppan.demo.qihoo360.evpp;1;0
 1283;pvt.cppan.demo.google.gflags;1;0
 1284;pvt.cppan.demo.google.glog;1;0
+1285;pvt.cppan.demo.google.butteraugli;3;0
+1286;pvt.cppan.demo.google.butteraugli.lib;1;0
+1287;pvt.cppan.demo.google.guetzli;3;0
+1288;pvt.cppan.demo.google.guetzli.lib;1;0
