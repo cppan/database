@@ -849,7 +849,6 @@
 1259;pvt.cppan.demo.qtproject.qt.base.platformsupport.accessibility;1;0
 1262;pvt.cppan.demo.qtproject.qt.base.plugins.platforms.windows;1;0
 1266;pvt.cppan.demo.open_source_parsers.jsoncpp;1;0
-1267;pvt.cppan.demo.rhash;1;0
 1269;pvt.cppan.demo.kitware.cmake;3;0
 1270;pvt.cppan.demo.kitware.cmake.iml;1;0
 1271;pvt.cppan.demo.kitware.cmake.sys;1;0
@@ -872,3 +871,4 @@
 1296;pvt.cppan.demo.jsnell.parallel_xxhash;1;0
 1297;pvt.cppan.demo.vinniefalco.nudb;1;0
 1299;pvt.cppan.demo.gpuopen.anvil;1;0
+1301;pvt.cppan.demo.aleksey14.rhash;1;0
