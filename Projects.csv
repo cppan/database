@@ -133,6 +133,7 @@
 158;pvt.cppan.demo.tinyxml2;1;0
 160;pvt.cppan.demo.lz4;1;0
 162;pvt.cppan.demo.google.re2;1;0
+164;pvt.cppan.demo.apache.thrift;1;0
 165;pvt.cppan.demo.boost.scope_exit;1;0
 167;pvt.cppan.demo.apache.thrift_compiler;2;64
 168;pvt.cppan.demo.google.snappy;1;0
