@@ -80,7 +80,6 @@
 82;pvt.cppan.demo.boost.hana;1;0
 83;pvt.cppan.demo.boost.dll;1;0
 84;pvt.cppan.demo.boost.coroutine2;1;0
-87;pvt.cppan.demo.zlib;1;0
 88;pvt.cppan.demo.bzip2;1;0
 89;pvt.cppan.demo.sqlite3;1;0
 92;pvt.cppan.demo.mach7;1;0
@@ -886,3 +885,4 @@
 1320;pvt.cppan.demo.eddic.fastcgipp;1;0
 1322;pvt.cppan.demo.chardan.exceptional;1;0
 1324;pvt.cppan.demo.madler.zlib;1;0
+1326;pvt.cppan.demo.alf_p_steinbach.expressive_cpp;1;0
