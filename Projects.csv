@@ -887,3 +887,7 @@
 1324;pvt.cppan.demo.madler.zlib;1;0
 1326;pvt.cppan.demo.alf_p_steinbach.expressive_cpp;1;0
 1329;pvt.lzwdgc.polygon4.data_manager;3;0
+1330;pvt.lzwdgc.polygon4.data_manager.data_manager;1;0
+1331;pvt.lzwdgc.polygon4.data_manager.schema;1;0
+1332;pvt.lzwdgc.polygon4.data_manager.generator;2;64
+1333;pvt.lzwdgc.polygon4.data_manager.memory;1;0
