@@ -857,7 +857,6 @@
 1277;pvt.cppan.demo.arashpartow.exprtk;1;0
 1279;pvt.cppan.demo.codeplea.tinyexpr;1;0
 1280;pvt.cppan.demo.libevent;1;0
-1282;pvt.cppan.demo.qihoo360.evpp;1;0
 1283;pvt.cppan.demo.google.gflags;1;0
 1284;pvt.cppan.demo.google.glog;1;0
 1285;pvt.cppan.demo.google.butteraugli;3;0
@@ -893,3 +892,6 @@
 1333;pvt.lzwdgc.polygon4.data_manager.memory;1;0
 1335;pvt.cppan.demo.mobius3.tweeny;1;0
 1336;pvt.cppan.demo.lexxmark.rsl;1;0
+1338;pvt.cppan.demo.qihoo360.evpp;3;0
+1339;pvt.cppan.demo.qihoo360.evpp.evpp;1;0
+1340;pvt.cppan.demo.qihoo360.evpp.evnsq;1;0
