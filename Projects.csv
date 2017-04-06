@@ -116,7 +116,6 @@
 134;pvt.cppan.demo.libressl.tls;1;0
 135;pvt.cppan.demo.boost_experimental;3;0
 137;pvt.cppan.demo.boost_experimental.di;1;0
-138;pvt.cppan.demo.rapidjson;1;0
 139;pvt.cppan.demo.boost_experimental.root_ptr;1;0
 140;pvt.cppan.demo.boost.interval;1;0
 141;pvt.cppan.demo.pistache;1;0
@@ -895,3 +894,4 @@
 1338;pvt.cppan.demo.qihoo360.evpp;3;0
 1339;pvt.cppan.demo.qihoo360.evpp.evpp;1;0
 1340;pvt.cppan.demo.qihoo360.evpp.evnsq;1;0
+1342;pvt.cppan.demo.miloyip.rapidjson;1;0
