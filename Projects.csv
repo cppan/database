@@ -911,3 +911,7 @@
 1367;pvt.cppan.demo.mbed.tls.crypto;1;0
 1368;pvt.cppan.demo.mbed.tls.tls;1;0
 1369;pvt.cppan.demo.mbed.tls.x509;1;0
+1370;pvt.cppan.demo.tessil.array_hash;1;0
+1371;pvt.cppan.demo.tessil.hat_trie;1;0
+1373;pvt.cppan.demo.farmersez.tracy;1;0
+1374;pvt.cppan.demo.martinmoene.expected_lite;1;0
