@@ -118,7 +118,6 @@
 137;pvt.cppan.demo.boost_experimental.di;1;0
 139;pvt.cppan.demo.boost_experimental.root_ptr;1;0
 140;pvt.cppan.demo.boost.interval;1;0
-141;pvt.cppan.demo.pistache;1;0
 142;pvt.cppan.demo.moderngpu;1;0
 143;pvt.cppan.demo.boost_experimental.sort_parallel;1;0
 144;pvt.cppan.demo.libuv;1;0
@@ -928,3 +927,4 @@
 1399;pvt.cppan.demo.loopperfect.neither;1;0
 1401;pvt.cppan.demo.beark.ftl;1;0
 1403;pvt.cppan.demo.nyorain.nytl;1;0
+1405;pvt.cppan.demo.springer13.hptt;1;0
