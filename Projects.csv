@@ -938,3 +938,7 @@
 1422;pvt.cppan.demo.chadaustin.sajson;1;0
 1423;pvt.cppan.demo.qtproject.qt.base.platformsupport.fontdatabases.freetype;1;0
 1426;pvt.cppan.demo.llvm_project.llvm;3;0
+1428;pvt.cppan.demo.llvm_project.llvm.utils.tablegen;1;0
+1429;pvt.cppan.demo.llvm_project.llvm.demangle;1;0
+1430;pvt.cppan.demo.llvm_project.llvm.support;1;0
+1431;pvt.cppan.demo.llvm_project.llvm.tablegen;1;0
