@@ -946,6 +946,7 @@
 1437;pvt.cppan.demo.llvm_project.llvm.utils.tablegen;2;64
 1440;pvt.cppan.demo.llvm_project.llvm.analysis;1;0
 1441;pvt.cppan.demo.llvm_project.llvm.asmparser;1;0
+1442;pvt.cppan.demo.llvm_project.llvm.asmprinter;1;0
 1443;pvt.cppan.demo.llvm_project.llvm.bitreader;1;0
 1444;pvt.cppan.demo.llvm_project.llvm.bitwriter;1;0
 1445;pvt.cppan.demo.llvm_project.llvm.codegen;1;0
@@ -967,6 +968,7 @@
 1461;pvt.cppan.demo.llvm_project.llvm.mirparser;1;0
 1462;pvt.cppan.demo.llvm_project.llvm.objcarcopts;1;0
 1463;pvt.cppan.demo.llvm_project.llvm.object;1;0
+1464;pvt.cppan.demo.llvm_project.llvm.objectyaml;1;0
 1465;pvt.cppan.demo.llvm_project.llvm.option;1;0
 1466;pvt.cppan.demo.llvm_project.llvm.orcjit;1;0
 1467;pvt.cppan.demo.llvm_project.llvm.passes;1;0
@@ -983,3 +985,5 @@
 1478;pvt.cppan.demo.llvm_project.llvm.mc.disassembler;1;0
 1480;pvt.cppan.demo.llvm_project.llvm.debuginfo.dwarf;1;0
 1481;pvt.cppan.demo.llvm_project.llvm.debuginfo.msf;1;0
+1482;pvt.cppan.demo.llvm_project.llvm.debuginfo.pdb;1;0
+1483;pvt.cppan.demo.llvm_project.llvm.debuginfo.codeview;1;0
