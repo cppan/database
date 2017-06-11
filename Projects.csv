@@ -999,3 +999,5 @@
 1507;pvt.cppan.demo.stlab.libraries;1;0
 1509;pvt.cppan.demo.lefticus.constexpr_all_the_things;1;0
 1511;pvt.cppan.demo.ldionne.dyno;1;0
+1512;pvt.cppan.demo.boost_experimental.vc;1;0
+1514;pvt.cppan.demo.cpp_testing.gunit;1;0
