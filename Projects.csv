@@ -1012,3 +1012,6 @@
 1550;pvt.cppan.demo.cylix.redis;1;0
 1551;pvt.cppan.demo.libharu;1;0
 1553;pvt.cppan.demo.graphicsmagick.magick;1;0
+1560;pvt.cppan.demo.emweb.wt;3;0
+1561;pvt.cppan.demo.emweb.wt.wt;1;0
+1562;pvt.cppan.demo.emweb.wt.http;1;0
