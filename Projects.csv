@@ -1007,8 +1007,6 @@
 1543;pvt.cppan.demo.tower120.reactive;1;0
 1544;pvt.cppan.demo.alf_p_steinbach.stdlib;1;0
 1546;pvt.cppan.demo.george3d6.striga;1;0
-1547;pvt.ninetainedo.thor;1;0
-1548;pvt.ninetainedo.aurora;1;0
 1550;pvt.cppan.demo.cylix.redis;1;0
 1551;pvt.cppan.demo.libharu;1;0
 1553;pvt.cppan.demo.graphicsmagick.magick;1;0
@@ -1022,3 +1020,5 @@
 1574;pvt.ninetainedo.kcat.openal;1;0
 1576;pvt.ninetainedo.sfml.audio;1;0
 1579;pvt.ninetainedo.xiph.flac.libflac;1;0
+1581;pvt.ninetainedo.bromeon.aurora;1;0
+1582;pvt.ninetainedo.bromeon.thor;1;0
