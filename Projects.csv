@@ -1025,3 +1025,6 @@
 1583;pvt.cppan.demo.qtproject.qt.base.printsupport;1;0
 1584;pvt.cppan.demo.qtproject.qt.svg;1;0
 1585;pvt.cppan.demo.qtproject.qt.base.third_party.wintab;1;0
+1588;pvt.cppan.demo.qtproject.qt.plugins.imageformats.qgif;1;0
+1589;pvt.cppan.demo.qtproject.qt.plugins.imageformats.qico;1;0
+1590;pvt.cppan.demo.qtproject.qt.plugins.imageformats.qjpeg;1;0
