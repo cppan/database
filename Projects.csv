@@ -906,6 +906,7 @@
 1360;pvt.cppan.demo.boost.process;1;0
 1362;pvt.cppan.demo.sailormoon.stopwatch;1;0
 1363;pvt.cppan.demo.gnome.libsigcplusplus;1;0
+1364;pvt.cppan.demo.boost.stacktrace;1;0
 1366;pvt.cppan.demo.mbed.tls;3;0
 1367;pvt.cppan.demo.mbed.tls.crypto;1;0
 1368;pvt.cppan.demo.mbed.tls.tls;1;0
