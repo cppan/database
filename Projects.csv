@@ -122,7 +122,6 @@
 143;pvt.cppan.demo.boost_experimental.sort_parallel;1;0
 144;pvt.cppan.demo.libuv;1;0
 145;pvt.cppan.demo.uwebsockets;1;0
-146;pvt.cppan.demo.mongoose;1;0
 147;pvt.cppan.demo.magic_get;1;0
 151;pvt.cppan.demo.tick;1;0
 152;pvt.cppan.demo.fmt;1;0
@@ -1072,3 +1071,4 @@
 1664;pvt.cppan.demo.loopperfect.rxterm;1;0
 1665;pvt.cppan.demo.tessil.robin_map;1;0
 1667;pvt.cppan.demo.ninja_build.ninja;2;64
+1670;pvt.cppan.demo.cesanta.mongoose;1;0
