@@ -1107,3 +1107,7 @@
 1732;pvt.cppan.demo.boost.beast;1;0
 1734;pvt.cppan.demo.boost.mp11;1;0
 1735;pvt.cppan.demo.boost.callable_traits;1;0
+1737;pvt.cppan.demo.gnu.gmp;3;0
+1738;pvt.cppan.demo.gnu.gmp.lib;1;0
+1739;pvt.cppan.demo.gnu.gmp.mini;1;0
+1740;pvt.cppan.demo.gnu.gmp.cxx;1;0
