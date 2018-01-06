@@ -1118,3 +1118,16 @@
 1751;pvt.cppan.demo.unicode.icu.stub.genccode;2;64
 1752;pvt.cppan.demo.gnu.gperf;2;64
 1754;pvt.cppan.demo.telegram.td;3;0
+1755;pvt.cppan.demo.telegram.td.utils;1;0
+1756;pvt.cppan.demo.telegram.td.actor;1;0
+1757;pvt.cppan.demo.telegram.td.db;1;0
+1758;pvt.cppan.demo.telegram.td.net;1;0
+1759;pvt.cppan.demo.telegram.td.tl;1;0
+1761;pvt.cppan.demo.telegram.td.generate.json;2;64
+1763;pvt.cppan.demo.telegram.td.generate.common;2;64
+1764;pvt.cppan.demo.telegram.td.generate.clib;1;0
+1765;pvt.cppan.demo.telegram.td.core;1;0
+1766;pvt.cppan.demo.telegram.td.client;1;0
+1767;pvt.cppan.demo.telegram.td.clib;1;0
+1768;pvt.cppan.demo.telegram.td.json;1;0
+1770;pvt.cppan.demo.telegram.td.private.json;1;0
