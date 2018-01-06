@@ -1131,3 +1131,5 @@
 1767;pvt.cppan.demo.telegram.td.clib;1;0
 1768;pvt.cppan.demo.telegram.td.json;1;0
 1770;pvt.cppan.demo.telegram.td.private.json;1;0
+1771;pvt.cppan.demo.telegram.td.memprof;1;0
+1772;pvt.cppan.demo.telegram.td.cli;2;64
