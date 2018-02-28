@@ -126,7 +126,6 @@
 151;pvt.cppan.demo.tick;1;0
 152;pvt.cppan.demo.fmt;1;0
 155;pvt.cppan.demo.functionalplus;1;0
-158;pvt.cppan.demo.tinyxml2;1;0
 160;pvt.cppan.demo.lz4;1;0
 162;pvt.cppan.demo.google.re2;1;0
 164;pvt.cppan.demo.apache.thrift;1;0
@@ -1147,3 +1146,4 @@
 1791;pvt.cppan.demo.grisumbras.enum_flags;1;0
 1793;pvt.cppan.demo.gnu.fribidi;3;0
 1794;pvt.cppan.demo.gnu.fribidi.fribidi;1;0
+1796;pvt.cppan.demo.leethomason.tinyxml2;1;0
