@@ -1221,9 +1221,4 @@
 1882;pvt.egorpugin.primitives.db.common;1;0
 1883;pvt.egorpugin.primitives.db.postgresql;1;0
 1884;pvt.egorpugin.primitives.db.sqlite3;1;0
-1885;pvt.egorpugin.primitives.executor_bt;1;0
-1886;pvt.egorpugin.primitives.executor_io;1;0
-1887;pvt.egorpugin.primitives.test_executor;2;64
-1888;pvt.egorpugin.primitives.test_executor_bt;2;64
-1889;pvt.egorpugin.primitives.testxxx;2;64
 1890;pvt.cppan.demo.catchorg.clara;1;0
