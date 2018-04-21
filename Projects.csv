@@ -1258,3 +1258,4 @@
 1940;pvt.cppan.demo.google.grpc.grpc_client_authority_filter;1;0
 1942;pvt.cppan.demo.seqan.seqan;1;0
 1943;pvt.cppan.demo.google.crc32c;1;0
+1944;pvt.cppan.demo.google.leveldb;1;0
