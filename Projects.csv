@@ -1264,3 +1264,6 @@
 1950;pvt.cppan.demo.efficient.surf;1;0
 1952;pvt.cppan.demo.ltjax.file_monitor;1;0
 1954;pvt.cppan.demo.thomasmonkman.filewatch;1;0
+1957;pvt.cppan.demo.emcrisostomo.fswatch;3;0
+1958;pvt.cppan.demo.emcrisostomo.fswatch.fswatch;2;64
+1959;pvt.cppan.demo.emcrisostomo.fswatch.lib;1;0
