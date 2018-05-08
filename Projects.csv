@@ -796,7 +796,6 @@
 1171;pvt.egorpugin.primitives.filesystem;1;0
 1172;pvt.egorpugin.primitives.http;1;0
 1173;pvt.egorpugin.primitives.lock;1;0
-1174;pvt.egorpugin.primitives.sqlite_db;1;0
 1175;pvt.egorpugin.primitives.command;1;0
 1176;pvt.egorpugin.primitives.executor;1;0
 1177;pvt.egorpugin.primitives.hash;1;0
