@@ -1282,3 +1282,8 @@
 1982;pvt.cppan.demo.qtproject.qt.base.plugins.styles.windowsvista;1;0
 1983;pvt.egorpugin.primitives.version;1;0
 1985;pvt.cppan.demo.tcbrindle.nanorange;1;0
+1986;pvt.cppan.demo.openalpr;3;0
+1987;pvt.cppan.demo.openalpr.alpr;2;64
+1988;pvt.cppan.demo.openalpr.openalpr;1;0
+1989;pvt.cppan.demo.openalpr.statedetection;1;0
+1990;pvt.cppan.demo.openalpr.video;1;0
