@@ -1327,4 +1327,4 @@
 2049;pvt.cppan.demo.yasm.modules.preprocs.nasm;1;0
 2050;pvt.cppan.demo.yasm.modules.preprocs.raw;1;0
 2052;pvt.cppan.demo.yasm.tools.genmacro;2;64
-2053;pvt.cppan.demo.yasm.config;2;64
+2054;pvt.cppan.demo.yasm.tools.genversion;2;64
