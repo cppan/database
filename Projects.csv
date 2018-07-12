@@ -1301,6 +1301,7 @@
 2015;pvt.cppan.demo.dead2.zlib_ng;1;0
 2017;pvt.cppan.demo.chromium.libyuv;3;0
 2018;pvt.cppan.demo.chromium.libyuv.libyuv;1;0
+2019;pvt.cppan.demo.webmproject.vpx;1;0
 2020;pvt.cppan.demo.qtproject.qt.winextras;1;0
 2021;pvt.cppan.demo.yasm;3;0
 2022;pvt.cppan.demo.yasm.libyasm;1;0
