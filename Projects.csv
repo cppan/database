@@ -1334,3 +1334,6 @@
 2059;pvt.cppan.demo.tcl.lib;1;0
 2060;pvt.cppan.demo.tcl.sh;2;64
 2061;pvt.cppan.demo.tcl.stub;1;0
+2062;pvt.cppan.demo.sqlcipher;3;0
+2063;pvt.cppan.demo.sqlcipher.lemon;2;64
+2064;pvt.cppan.demo.sqlcipher.sqlcipher;1;0
