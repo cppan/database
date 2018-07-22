@@ -1337,3 +1337,4 @@
 2062;pvt.cppan.demo.sqlcipher;3;0
 2063;pvt.cppan.demo.sqlcipher.lemon;2;64
 2064;pvt.cppan.demo.sqlcipher.sqlcipher;1;0
+2065;pvt.cppan.demo.sqlcipher.mkkeywordhash;2;64
