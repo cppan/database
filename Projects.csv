@@ -1339,3 +1339,6 @@
 2064;pvt.cppan.demo.sqlcipher.sqlcipher;1;0
 2065;pvt.cppan.demo.sqlcipher.mkkeywordhash;2;64
 2066;pvt.cppan.demo.telegram.td.generate_mime_types_gperf;2;64
+2068;pvt.egorpugin.primitives.main;1;0
+2069;pvt.egorpugin.primitives.settings;1;0
+2071;pvt.egorpugin.primitives.sw.settings;1;0
