@@ -1343,3 +1343,5 @@
 2071;pvt.egorpugin.primitives.sw.settings;1;0
 2073;pvt.cppan.demo.zeromq.libzmq;1;0
 2074;pvt.cppan.demo.zeromq.cppzmq;1;0
+2075;pvt.egorpugin.llvm;3;0
+2076;pvt.egorpugin.llvm.support_lite;1;0
