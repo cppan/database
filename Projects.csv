@@ -1272,7 +1272,6 @@
 1964;pvt.cppan.demo.im95able.rea;1;0
 1967;pvt.cppan.demo.tzlaine.text;1;0
 1969;pvt.cppan.demo.manu343726.tinyrefl;1;0
-1970;pvt.egorpugin.primitives.embedder;2;64
 1971;pvt.damitha_lenadora.morficonvert;1;0
 1973;pvt.cppan.demo.wqking.eventpp;1;0
 1975;pvt.cppan.demo.vpiotr.decimal_for_cpp;1;0
@@ -1350,3 +1349,5 @@
 2079;pvt.egorpugin.primitives.sw.main;1;0
 2081;pvt.cppan.demo.boyerjohn.rapidstring;1;0
 2083;pvt.cppan.demo.daandemeyer.reproc;1;0
+2085;pvt.egorpugin.primitives.tools.embedder;2;64
+2087;pvt.egorpugin.primitives.tools.sqlpp11.sqlite2cpp;2;64
