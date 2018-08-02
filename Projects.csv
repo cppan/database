@@ -1360,3 +1360,7 @@
 2097;pvt.cppan.demo.gnu.grep;3;0
 2099;pvt.cppan.demo.gnu.grep.gnulib.other;1;0
 2100;pvt.cppan.demo.gnu.grep.grep;2;64
+2103;pvt.cppan.demo.gnu.gpg.error;3;0
+2104;pvt.cppan.demo.gnu.gpg.error.gpg_error;1;0
+2106;pvt.cppan.demo.gnu.gpg.error.tools.mkerrcodes;2;64
+2107;pvt.cppan.demo.gnu.gpg.error.tools.mkheader;2;64
