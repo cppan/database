@@ -1357,3 +1357,6 @@
 2094;pvt.cppan.demo.gnu.gawk.gawk;1;0
 2095;pvt.cppan.demo.gnu.gawk.regex;1;0
 2096;pvt.cppan.demo.gnu.gawk.getopt;1;0
+2097;pvt.cppan.demo.gnu.grep;3;0
+2099;pvt.cppan.demo.gnu.grep.gnulib.other;1;0
+2100;pvt.cppan.demo.gnu.grep.grep;2;64
