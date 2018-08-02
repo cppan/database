@@ -1354,7 +1354,7 @@
 2089;pvt.egorpugin.primitives.tools.syncqt;2;64
 2090;pvt.cppan.demo.libotr;1;0
 2092;pvt.cppan.demo.gnu.gawk;3;0
-2094;pvt.cppan.demo.gnu.gawk.gawk;1;0
+2094;pvt.cppan.demo.gnu.gawk.gawk;2;64
 2095;pvt.cppan.demo.gnu.gawk.regex;1;0
 2096;pvt.cppan.demo.gnu.gawk.getopt;1;0
 2097;pvt.cppan.demo.gnu.grep;3;0
