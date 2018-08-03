@@ -1373,3 +1373,7 @@
 2117;pvt.cppan.demo.gnu.gpg.gpgme;3;0
 2118;pvt.cppan.demo.gnu.gpg.gpgme.gpgme;1;0
 2119;pvt.cppan.demo.gnu.gpg.gpgme.gpgmecpp;1;0
+2120;pvt.cppan.demo.gnu.sed;3;0
+2121;pvt.cppan.demo.gnu.sed.gnulib;1;0
+2122;pvt.cppan.demo.gnu.sed.sed;2;64
+2123;pvt.cppan.demo.gnu.grep.gnulib2;1;0
