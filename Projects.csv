@@ -1370,3 +1370,5 @@
 2112;pvt.cppan.demo.gnu.gpg.assuan;3;0
 2113;pvt.cppan.demo.gnu.gpg.assuan.assuan;1;0
 2115;pvt.cppan.demo.gnu.gpg.assuan.tools.mkheader;2;64
+2117;pvt.cppan.demo.gnu.gpg.gpgme;3;0
+2118;pvt.cppan.demo.gnu.gpg.gpgme.gpgme;1;0
