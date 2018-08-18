@@ -1381,3 +1381,8 @@
 2130;pvt.cppan.demo.donerkebap13.serializer;1;0
 2132;pvt.cppan.demo.integricho.seq;1;0
 2134;pvt.cppan.demo.boost.yap;1;0
+2135;pvt.cppan.demo.google.breakpad;3;0
+2139;pvt.cppan.demo.google.breakpad.client.windows.crash_generation.client;1;0
+2140;pvt.cppan.demo.google.breakpad.client.windows.crash_generation.server;1;0
+2141;pvt.cppan.demo.google.breakpad.client.windows.handler;1;0
+2143;pvt.cppan.demo.google.breakpad.common.windows;1;0
