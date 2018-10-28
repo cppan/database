@@ -1398,3 +1398,9 @@
 2158;pvt.cppan.demo.google.grpc.grpc_shadow_boringssl;1;0
 2159;pvt.egorpugin.libuv;1;0
 2161;pvt.cppan.demo.mandreyel.mio;1;0
+2162;pvt.cppan.demo.gnu.gcc;3;0
+2163;pvt.cppan.demo.gnu.gcc.config;1;0
+2164;pvt.cppan.demo.gnu.gcc.gcc;2;64
+2165;pvt.cppan.demo.gnu.gcc.libiberty;1;0
+2167;pvt.cppan.demo.gnu.gcc.tools.genconstants;2;64
+2168;pvt.cppan.demo.gnu.gcc.tools.genmodes;2;64
